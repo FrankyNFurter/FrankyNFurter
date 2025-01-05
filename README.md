@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hello there 👋
+
+- 🗓 Wanted to code more in 2025
+- 👨‍🎓 So currently learning GitHub
+- 📋 Will probably make a blog and a video game
+- 💬 Chat with me!
 
 <!--
 **FrankyNFurter/FrankyNFurter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
